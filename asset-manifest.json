@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fire-bird/static/css/main.62691ab3.css",
+    "main.js": "/fire-bird/static/js/main.728a9de7.js",
+    "index.html": "/fire-bird/index.html",
+    "main.62691ab3.css.map": "/fire-bird/static/css/main.62691ab3.css.map",
+    "main.728a9de7.js.map": "/fire-bird/static/js/main.728a9de7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62691ab3.css",
+    "static/js/main.728a9de7.js"
+  ]
+}
